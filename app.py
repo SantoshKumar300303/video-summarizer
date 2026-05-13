@@ -59,5 +59,13 @@ final_prompt = prompt.format(transcript=transcript)
 print("Generating summary...\n")
 response = llm.invoke(final_prompt)
 
+summary = response.content
+
+# Save summary to file
+with open("summary.txt", "w", encoding="utf-8") as f:
+    f.write(summary)
+
+print("✅ Summary saved as summary.txt")
+
 print("\n========== SUMMARY ==========\n")
-print(response.content)
+print(summary)

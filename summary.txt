@@ -1,0 +1,15 @@
+**Short Summary**
+
+The speaker, a storm chaser, shares his passion for pursuing tornadoes and the importance of following one's dreams. He presents an overview of his research on tornadoes using armored vehicles called Dominators, which are designed to measure data inside tornadoes. The talk highlights the need for more storm chasers in the eastern United States, where tornadoes can be more deadly due to the population density.
+
+**Important Points**
+
+1. The speaker's passion for storm chasing began at a young age and led him to pursue his dream.
+2. He developed armored vehicles called Dominators to measure data inside tornadoes, specifically focusing on vertical winds and suction boardies (small tornadoes that spin around each other).
+3. The research aims to better understand tornado dynamics, improve warning times, and inform the design of more resistant homes.
+4. The speaker emphasizes the importance of collaborative efforts between mathematicians, computer scientists, and observers like himself to reproduce simulations and validate their accuracy.
+5. He discusses the history of his Dominators, including the development of the first vehicle (Dominator 1) and improvements made for Dominator 2.
+
+**Final Conclusion**
+
+The speaker concludes by emphasizing that everyone should follow their passion and never stop chasing their dreams. He encourages the audience to take warnings seriously, as tornadoes can be deadly, especially in populated areas like Dixie Alley. The talk highlights the importance of collaborative research, innovative technologies, and a deep understanding of tornado dynamics to improve our knowledge and ultimately save lives.

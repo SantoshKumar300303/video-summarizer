@@ -1,0 +1,67 @@
+========== STEP 1 ==========
+Loading Whisper model...
+Transcribing video...
+D:\youtube-summarizer\venv\Lib\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+✅ Transcript generated
+
+========== STEP 2 ==========
+Splitting transcript into chunks...
+Creating embeddings...
+Storing in ChromaDB...
+✅ Vector database created
+
+========== STEP 3 ==========
+✅ Video Chat Ready!
+
+========== CHAT WITH VIDEO ==========
+Type 'exit' to quit.
+
+You: what is this video about
+
+Thinking...
+
+Assistant:
+Based on the provided context, it appears that this video is a documentary-style recording of a storm chaser team, likely from the Discovery Channel show "Storm Chasers", capturing footage of severe weather and tornadoes. The video shows a small tornado moving harmlessly across open farm country at first, but up close, it sounds like a jet engine and features miniature tornadoes spinning around at high rates.
+
+The video is motivated by research conducted by the team, including a professor from the University of Oklahoma who simulated the transition from one large tornado to these miniature tornadoes using computer simulations. The footage aims to demonstrate the power and complexity of tornadoes, including the suction boards or "suction boardies" that form around the base of the twister.
+
+Additionally, the video includes a clip from 2011 showing an F5 tornado with a complex structure and powerful updraft, as well as a brief segment discussing the team's experience driving within 200 yards of violent tornadoes.
+
+You: give a short summary of the video
+
+Thinking...
+
+Assistant:
+The video is a documentary-style footage showing a small tornado, initially appearing harmless, but upon closer inspection, reveals miniature tornadoes spinning around at high speeds. The speaker explains that this phenomenon was the motivation for their research and design of the "dominators" to better measure wind speeds in these "suction boardies."
+
+You: what are the main topics discussed?
+
+Thinking...
+
+Assistant:
+Based on the given context, the main topics discussed are:
+
+1. The speaker's passion for storm chasing and research on tornadoes.
+2. The importance of understanding tornadoes to improve warning lead times and build structures that can withstand strong winds.
+3. The Dominator armored vehicle and its capabilities in measuring scientific data inside tornadoes.
+4. The differences between singular vortices and multiple vortices, including the strength of wind speeds.
+5. Research on vertical winds inside tornadoes, as well as horizontally rotating winds causing damage.
+
+These topics are discussed in the context of the speaker's research and passion for storm chasing, with a focus on understanding and measuring tornadoes to improve safety and warning times.
+
+You: what is the conclusion of the video?
+
+Thinking...
+
+Assistant:
+The conclusion of the video is not explicitly stated, as it appears to be a part of a larger presentation or lecture that is ongoing. However, based on the content presented in the video, some possible conclusions could be:
+
+* The accuracy and importance of computer simulations in understanding small-scale dynamics inside tornadoes
+* The collaborative effort required between experts in mathematics, computer science, and meteorology to develop accurate models
+* The power and complexity of tornadoes, as demonstrated by the footage of different tornadoes and the simulations presented
+
+Overall, the video seems to be highlighting the significance of combining scientific expertise with real-world observations to gain a deeper understanding of complex phenomena like tornadoes.
+
+You: exit
